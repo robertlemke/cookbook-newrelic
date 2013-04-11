@@ -1,0 +1,1 @@
+default['robertlemke-newrelic']['license_key'] = "not defined yet"
